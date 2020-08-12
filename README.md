@@ -22,7 +22,7 @@
 <img src="screenshots/snapshot9.png" width="50%"/><img src="screenshots/snapshot13.png" width="50%"/>
 <br></br>
 
-图片加载不出来？附上[博客地址][6]
+
 <br></br>
 
 ## 下载体验
