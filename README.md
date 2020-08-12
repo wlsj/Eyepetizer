@@ -45,13 +45,6 @@
 - [PxCook][12] 标注工具
 - [开发助手][13] 反编译应用、提取应用 Apk 等
 
-## 关于我
-- RealName : 殷志威
-- NickName : vipyinzhiwei
-- WeChat : vipyinzhiwei
-- Email : <vipyinzhiwei@gmail.com>
-- Blog : <https://www.vipyinzhiwei.com>
-
 ## 鼓励
 通过这个项目希望能够帮助大家更好地学习 Jetpack 与 MVVM 架构。如果你喜欢 Eyepetizer 的设计，感觉本项目的源代码对你的学习有所帮助，可以点右上角 **"Star"** 支持一下，谢谢！^_^
 
